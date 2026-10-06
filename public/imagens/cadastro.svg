@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 350" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titulo-cadastro">
+  <title id="titulo-cadastro">Ilustração de aperto de mãos simbolizando adesão como voluntário</title>
+  <rect width="400" height="350" fill="#e8f5e9"/>
+  <circle cx="200" cy="150" r="130" fill="#c8e6c9"/>
+
+  <!-- Braço 1 -->
+  <rect x="70" y="190" width="130" height="34" rx="17" fill="#2e7d32" transform="rotate(-8 70 190)"/>
+  <!-- Braço 2 -->
+  <rect x="200" y="190" width="130" height="34" rx="17" fill="#ff8f00" transform="rotate(8 330 190)"/>
+
+  <!-- Mãos unidas (aperto) -->
+  <circle cx="200" cy="205" r="30" fill="#1b5e20"/>
+
+  <!-- Check de confirmação -->
+  <circle cx="200" cy="270" r="34" fill="#ffffff" stroke="#2e7d32" stroke-width="6"/>
+  <path d="M184 270 L196 284 L218 256" stroke="#2e7d32" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

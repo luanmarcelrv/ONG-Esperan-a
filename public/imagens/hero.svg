@@ -1,0 +1,31 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titulo-hero">
+  <title id="titulo-hero">Ilustração de comunidade unida por esperança</title>
+  <rect width="600" height="400" fill="#eef6ee"/>
+  <circle cx="300" cy="150" r="120" fill="#c8e6c9"/>
+
+  <!-- Sol / esperança -->
+  <circle cx="480" cy="70" r="34" fill="#ff8f00" opacity="0.85"/>
+
+  <!-- Pessoas de mãos dadas -->
+  <g fill="#2e7d32">
+    <circle cx="200" cy="220" r="26"/>
+    <rect x="176" y="248" width="48" height="80" rx="16"/>
+  </g>
+  <g fill="#1b5e20">
+    <circle cx="300" cy="205" r="30"/>
+    <rect x="272" y="236" width="56" height="92" rx="18"/>
+  </g>
+  <g fill="#43a047">
+    <circle cx="400" cy="220" r="26"/>
+    <rect x="376" y="248" width="48" height="80" rx="16"/>
+  </g>
+
+  <!-- Braços unidos -->
+  <path d="M224 290 L276 268" stroke="#1b5e20" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M324 268 L376 290" stroke="#1b5e20" stroke-width="10" stroke-linecap="round" fill="none"/>
+
+  <!-- Coração de esperança -->
+  <path d="M300 340 c-14-16-40-14-40 8 c0 18 40 40 40 40 s40-22 40-40 c0-22-26-24-40-8z" fill="#ff8f00"/>
+
+  <rect y="360" width="600" height="40" fill="#a5d6a7" opacity="0.6"/>
+</svg>

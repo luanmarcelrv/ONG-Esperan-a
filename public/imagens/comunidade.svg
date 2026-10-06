@@ -1,0 +1,26 @@
+<svg viewBox="0 0 500 350" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titulo-comunidade">
+  <title id="titulo-comunidade">Ilustração de cesta básica simbolizando doação para a comunidade</title>
+  <rect width="500" height="350" fill="#fff8e1"/>
+
+  <!-- Cesta -->
+  <path d="M120 190 L380 190 L350 320 L150 320 Z" fill="#c68e4e"/>
+  <path d="M120 190 L380 190" stroke="#8d5a2b" stroke-width="10"/>
+  <g stroke="#8d5a2b" stroke-width="4">
+    <line x1="140" y1="200" x2="160" y2="315"/>
+    <line x1="180" y1="200" x2="195" y2="318"/>
+    <line x1="220" y1="200" x2="228" y2="320"/>
+    <line x1="260" y1="200" x2="255" y2="320"/>
+    <line x1="300" y1="200" x2="288" y2="318"/>
+    <line x1="340" y1="200" x2="320" y2="315"/>
+  </g>
+  <path d="M170 190 C170 120 330 120 330 190" fill="none" stroke="#8d5a2b" stroke-width="10"/>
+
+  <!-- Itens dentro da cesta -->
+  <circle cx="180" cy="165" r="26" fill="#ff8f00"/>
+  <circle cx="235" cy="150" r="30" fill="#e53935"/>
+  <rect x="270" y="130" width="34" height="60" rx="6" fill="#43a047"/>
+  <circle cx="315" cy="165" r="24" fill="#fdd835"/>
+
+  <!-- Coração -->
+  <path d="M250 40 c-10-12-30-10-30 6 c0 14 30 30 30 30 s30-16 30-30 c0-16-20-18-30-6z" fill="#2e7d32"/>
+</svg>

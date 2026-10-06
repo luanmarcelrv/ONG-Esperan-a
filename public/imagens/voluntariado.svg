@@ -1,0 +1,33 @@
+<svg viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titulo-voluntariado">
+  <title id="titulo-voluntariado">Ilustração de voluntários trabalhando juntos em um mutirão</title>
+  <rect width="700" height="300" fill="#e8f5e9"/>
+
+  <!-- Chão -->
+  <rect y="250" width="700" height="50" fill="#a5d6a7"/>
+
+  <!-- Ferramenta: pá -->
+  <g transform="translate(150 150)">
+    <circle cx="0" cy="-40" r="24" fill="#43a047"/>
+    <rect x="-10" y="-16" width="20" height="70" fill="#2e7d32"/>
+    <line x1="0" y1="54" x2="30" y2="120" stroke="#8d5a2b" stroke-width="8" stroke-linecap="round"/>
+    <path d="M18 112 L42 108 L46 132 L22 138 Z" fill="#607d8b"/>
+  </g>
+
+  <!-- Pessoa central segurando prancheta -->
+  <g transform="translate(340 130)">
+    <circle cx="0" cy="-40" r="26" fill="#1b5e20"/>
+    <rect x="-22" y="-14" width="44" height="80" rx="14" fill="#2e7d32"/>
+    <rect x="-14" y="10" width="28" height="36" fill="#ffffff" stroke="#8d5a2b" stroke-width="3"/>
+  </g>
+
+  <!-- Pessoa com martelo -->
+  <g transform="translate(530 150)">
+    <circle cx="0" cy="-40" r="24" fill="#ff8f00"/>
+    <rect x="-10" y="-16" width="20" height="70" fill="#e65100"/>
+    <line x1="0" y1="30" x2="34" y2="0" stroke="#8d5a2b" stroke-width="8" stroke-linecap="round"/>
+    <rect x="28" y="-18" width="26" height="18" rx="4" fill="#607d8b"/>
+  </g>
+
+  <!-- Sol -->
+  <circle cx="620" cy="50" r="26" fill="#ff8f00" opacity="0.8"/>
+</svg>
