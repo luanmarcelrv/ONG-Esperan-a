@@ -11,7 +11,7 @@ const routes = {
                 </div>
             </div>
             <div class="hero-img-wrapper">
-                <img src="./imagens/ong.avif" alt="Membros da comunidade unidos e sorrindo">
+                <img src="/imagens/ong.avif" alt="Membros da comunidade unidos e sorrindo">
             </div>
         </section>
 
@@ -38,7 +38,7 @@ const routes = {
             <div class="cards-grid">
                 <article class="card-item">
                     <div class="icon-box">
-                        <img src="./imagens/educacao.webp" alt="Ícone de chapéu de formatura e livro">
+                        <img src="/imagens/educacao.webp" alt="Ícone de chapéu de formatura e livro">
                     </div>
                     <h3 class="card-title">Educação e Futuro</h3>
                     <p class="card-text">Reforço escolar, incentivo à leitura e letramento digital no contra-turno escolar para crianças e adolescentes.</p>
@@ -47,7 +47,7 @@ const routes = {
 
                 <article class="card-item">
                     <div class="icon-box">
-                        <img src="./imagens/comunidade.webp" alt="Ícone de suporte comunitário com mãos unidas">
+                        <img src="/imagens/comunidade.webp" alt="Ícone de suporte comunitário com mãos unidas">
                     </div>
                     <h3 class="card-title">Desenvolvimento Social</h3>
                     <p class="card-text">Suporte nutricional emergencial, feiras gratuitas e suporte psicológico para famílias cadastradas.</p>
@@ -56,7 +56,7 @@ const routes = {
 
                 <article class="card-item">
                     <div class="icon-box">
-                        <img src="./imagens/voluntariado.jpg" alt="Ícone de mãos coloridas simbolizando trabalho voluntário">
+                        <img src="/imagens/voluntariado.jpg" alt="Ícone de mãos coloridas simbolizando trabalho voluntário">
                     </div>
                     <h3 class="card-title">Rede de Voluntariado</h3>
                     <p class="card-text">Mutirões urbanos, infraestrutura e oficinas ministradas por profissionais parceiros.</p>
@@ -84,7 +84,7 @@ const routes = {
                     <a href="#/cadastro" class="btn btn-primary">Seja um Tutor Voluntário</a>
                 </div>
                 <div class="hero-img-wrapper">
-                    <img src="./imagens/educacao.webp" alt="Materiais de educação e formação">
+                    <img src="/imagens/educacao.webp" alt="Materiais de educação e formação">
                 </div>
             </section>
 
@@ -100,7 +100,7 @@ const routes = {
                     <a href="#/cadastro" class="btn btn-primary">Apoiar Arrecadação</a>
                 </div>
                 <div class="hero-img-wrapper">
-                    <img src="./imagens/comunidade.webp" alt="Pessoas unidas em apoio comunitário">
+                    <img src="/imagens/comunidade.webp" alt="Pessoas unidas em apoio comunitário">
                 </div>
             </section>
 
@@ -116,7 +116,7 @@ const routes = {
                     <a href="#/cadastro" class="btn btn-primary">Quero Fazer Parte</a>
                 </div>
                 <div class="hero-img-wrapper">
-                    <img src="./imagens/voluntariado.jpg" alt="Equipe de voluntários">
+                    <img src="/imagens/voluntariado.jpg" alt="Equipe de voluntários">
                 </div>
             </section>
         </div>
@@ -202,7 +202,7 @@ const routes = {
                     <p class="card-text">O voluntariado gera impacto real na vida de famílias vulneráveis e permite desenvolver competências humanas e técnicas únicas.</p>
                 </div>
                 <div class="hero-img-wrapper" style="margin-top: 1.5rem;">
-                    <img src="./imagens/voluntariado.jpg" alt="Pessoas voluntárias reunidas">
+                    <img src="/imagens/voluntariado.jpg" alt="Pessoas voluntárias reunidas">
                 </div>
             </div>
         </section>
